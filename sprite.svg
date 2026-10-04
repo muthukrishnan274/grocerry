@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff8e7"/><stop offset="1" stop-color="#e8f8ef"/></linearGradient></defs>
+<rect width="800" height="600" rx="42" fill="url(#g)"/>
+<circle cx="400" cy="270" r="150" fill="#ffffff" opacity=".88"/>
+<text x="400" y="300" text-anchor="middle" font-size="150">🥤</text>
+<text x="400" y="485" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="#193b2a">Sprite</text>
+<text x="400" y="525" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#6c7b73">Seematti Grocery Shop</text>
+</svg>
